@@ -4,7 +4,6 @@ Hi 👋 My name is Sahar Fallahi
 Front-end Developer
 -------------------
 
-* 🌍  I'm based in Iran
 * ✉️  You can contact me at [s.fallahi.66@gmail.com](mailto:s.fallahi.66@gmail.com)
 
 
